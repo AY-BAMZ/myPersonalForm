@@ -69,6 +69,8 @@ export class UserForm extends Component {
             return(
                 <Success />
             )
+            default: 
+            return null
         }
     }
 }
