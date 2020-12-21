@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AY-BAMZ/myPersonalForm.git/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/AY-BAMZ/myPersonalForm.git/static/js/main.ca4ef725.chunk.js",
+    "main.js.map": "/AY-BAMZ/myPersonalForm.git/static/js/main.ca4ef725.chunk.js.map",
+    "runtime-main.js": "/AY-BAMZ/myPersonalForm.git/static/js/runtime-main.8ef3d217.js",
+    "runtime-main.js.map": "/AY-BAMZ/myPersonalForm.git/static/js/runtime-main.8ef3d217.js.map",
+    "static/js/2.3a6a4809.chunk.js": "/AY-BAMZ/myPersonalForm.git/static/js/2.3a6a4809.chunk.js",
+    "static/js/2.3a6a4809.chunk.js.map": "/AY-BAMZ/myPersonalForm.git/static/js/2.3a6a4809.chunk.js.map",
+    "static/js/3.fff148c5.chunk.js": "/AY-BAMZ/myPersonalForm.git/static/js/3.fff148c5.chunk.js",
+    "static/js/3.fff148c5.chunk.js.map": "/AY-BAMZ/myPersonalForm.git/static/js/3.fff148c5.chunk.js.map",
+    "index.html": "/AY-BAMZ/myPersonalForm.git/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/AY-BAMZ/myPersonalForm.git/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3a6a4809.chunk.js.LICENSE.txt": "/AY-BAMZ/myPersonalForm.git/static/js/2.3a6a4809.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AY-BAMZ/myPersonalForm.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef3d217.js",
+    "static/js/2.3a6a4809.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.ca4ef725.chunk.js"
+  ]
+}
